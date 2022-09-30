@@ -1,0 +1,9 @@
+{
+  "name": "azure-learning",
+  "version": "1.0.0",
+  "description": "Learning app",
+  "main": "index.js",
+  "repository": "git@github.com:lsolova/azure-learning.git",
+  "author": "Laszlo Solova <laszlo@solova.com>",
+  "license": "MIT"
+}
